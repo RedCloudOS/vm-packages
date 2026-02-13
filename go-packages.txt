@@ -1,0 +1,8 @@
+RedCloudOS/whoAMI-scanner
+RedCloudOS/KubeShadow
+RedCloudOS/EKSHolmes
+RedCloudOS/AzureHound
+RedCloudOS/cloudfox
+RedCloudOS/CloudBrute
+RedCloudOS/peirates
+RedCloudOS/gitleaks
