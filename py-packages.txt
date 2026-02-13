@@ -8,9 +8,7 @@ RedCloudOS/GoogleWorkspaceDirectoryDump
 RedCloudOS/gcp_scanner
 RedCloudOS/cartography
 RedCloudOS/ScoutSuite
-RedCloudOS/prowler
 RedCloudOS/KubiScan
-RedCloudOS/AzDevRecon
 RedCloudOS/AWeSomeUserFinder
 RedCloudOS/Oh365UserFinder
 RedCloudOS/cloud_enum
