@@ -6,7 +6,6 @@ RedCloudOS/GCP-IAM-Privilege-Escalation
 RedCloudOS/GCPTokenReuse
 RedCloudOS/GoogleWorkspaceDirectoryDump
 RedCloudOS/gcp_scanner
-RedCloudOS/cartography
 RedCloudOS/ScoutSuite
 RedCloudOS/KubiScan
 RedCloudOS/AWeSomeUserFinder
