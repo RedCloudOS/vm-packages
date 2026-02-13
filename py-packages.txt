@@ -1,0 +1,16 @@
+RedCloudOS/PMapper
+RedCloudOS/heimdall
+RedCloudOS/CloudShovel
+RedCloudOS/GCPBucketBrute
+RedCloudOS/GCP-IAM-Privilege-Escalation
+RedCloudOS/GCPTokenReuse
+RedCloudOS/GoogleWorkspaceDirectoryDump
+RedCloudOS/gcp_scanner
+RedCloudOS/cartography
+RedCloudOS/ScoutSuite
+RedCloudOSprowler
+RedCloudOS/KubiScan
+RedCloudOS/AzDevRecon
+RedCloudOS/AWeSomeUserFinder
+RedCloudOS/Oh365UserFinder
+RedCloudOS/cloud_enum
