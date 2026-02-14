@@ -2,7 +2,7 @@ https://github.com/ine-labs/AzureGoat
 https://github.com/BishopFox/cloudfoxable
 https://github.com/RhinoSecurityLabs/cloudgoat
 https://github.com/Semperis/EntraGoat
-https://owasp.org/www-project-eks-goat/
+https://github.com/OWASP/www-project-eks-goat
 https://github.com/madhuakula/kubernetes-goat
 https://github.com/bridgecrewio/terragoat
 https://github.com/cider-security-research/cicd-goat
