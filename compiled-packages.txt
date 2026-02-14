@@ -5,3 +5,4 @@ cloudfox
 CloudBrute
 peirates
 gitleaks
+redcloud-updater
