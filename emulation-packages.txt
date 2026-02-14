@@ -1,0 +1,3 @@
+https://github.com/datadog/stratus-red-team
+https://github.com/ReversecLabs/leonidas
+https://github.com/mvelazc0/msInvader
